@@ -1,6 +1,6 @@
 # Code of Conduct
 
-## Project: githubfinalproject
+## Project: github-final-project
 
 Maintained by **Dherry-Maker**
 
